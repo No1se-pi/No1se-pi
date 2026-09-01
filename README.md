@@ -1,77 +1,104 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" />
+# Hi, I'm Yaroslav 👋
+
+**AppSec • DevSecOps • CTF • Security Automation**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=9D6CFF&center=true&vCenter=true&width=600&lines=Application+Security;Security+Engineering;DevSecOps;CTF+%2F+Offensive+Security" />
+</div>
 
-<br><br>
+## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,bash,cpp,java&theme=dark" />
+<table align="center">
+  <tr>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+    </td>
+  </tr>
 
-<br>
+  <tr>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=go&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=rust&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git&theme=dark" />
+  <tr>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+    <td width="90" height="90" align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+    </td>
+    <td width="90" height="90" align="center"></td>
+  </tr>
+</table>
+
+---
+
+## 🏆 CTF & Olympiads
+
+<div align="center">
+
+`Kaspersky CTF` • `RCTF` • `PHD` • `CodeRun`  
+`СПО Fest` • `CyberCamp` • `MTS True Tech Champ`
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="55%" align="center">
+<div align="center">
+  <sub>security competitions, olympiads, hackathons & practical challenges</sub>
+</div>
 
-<img src="./assets/coding.gif" width="100%" />
+---
 
-</td>
+## 💜 Project Mascots
 
-<td width="45%" valign="middle">
-
-### `whoami`
-
-🔐 AppSec
-🐧 Linux
-🐳 DevSecOps
-🚩 CTF
-⚙️ Security Automation
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">Featured projects</h2>
-
-<p align="center">
-
-<a href="https://github.com/No1se-pi/Custodes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=No1se-pi&repo=Custodes&hide_border=true&bg_color=0D1117&title_color=9D6CFF&icon_color=9D6CFF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/No1se-pi/SourceHealth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=No1se-pi&repo=SourceHealth&hide_border=true&bg_color=0D1117&title_color=9D6CFF&icon_color=9D6CFF&text_color=C9D1D9" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/No1se-pi/Argus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=No1se-pi&repo=Argus&hide_border=true&bg_color=0D1117&title_color=9D6CFF&icon_color=9D6CFF&text_color=C9D1D9" />
-</a>
-
-</p>
-
-<br>
+<div align="center">
+  <img src="./assets/trio.png" width="85%" alt="Custodes, Argus and SourceHealth mascots" />
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=No1se-pi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D6CFF&icon_color=9D6CFF&text_color=C9D1D9" />
-
-<br><br>
-
-`root@github:~# █`
+`Custodes` • `Argus` • `SourceHealth`
 
 </div>
