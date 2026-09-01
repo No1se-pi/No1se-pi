@@ -1,89 +1,32 @@
 <div align="center">
 
-# Hi, I'm Yaroslav 👋
+<img src="./assets/hero.gif" width="100%" alt="No1se banner" />
 
-**AppSec • DevSecOps • CTF • Security Automation**
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A970FF&center=true&vCenter=true&width=750&lines=Application+Security;DevSecOps;CTF;Security+Automation;Linux+%7C+Python+%7C+Rust+%7C+Go" alt="Typing SVG" />
 
 </div>
 
+---
+
 ## 🧰 Tech Stack
 
-<table align="center">
-  <tr>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=bash&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-    </td>
-  </tr>
+<div align="center">
+  <img src="./assets/tech-grid.gif" width="680" alt="Animated tech stack grid" />
+</div>
 
-  <tr>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=go&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=rust&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-  </tr>
-
-  <tr>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-    <td width="90" height="90" align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
-    </td>
-    <td width="90" height="90" align="center"></td>
-  </tr>
-</table>
+<div align="center">
+  <sub>Python • Bash • Linux • Go • Rust • Docker • C++ • Java • Git • GitHub • PostgreSQL • SQLite</sub>
+</div>
 
 ---
 
 ## 🏆 CTF & Olympiads
 
 <div align="center">
-
-`Kaspersky CTF` • `RCTF` • `PHD` • `CodeRun`  
-`СПО Fest` • `CyberCamp` • `MTS True Tech Champ`
-
+  <img src="./assets/ctf-marquee.gif" width="760" alt="CTF and Olympiads marquee" />
 </div>
-
-<br>
 
 <div align="center">
   <sub>security competitions, olympiads, hackathons & practical challenges</sub>
